@@ -915,7 +915,7 @@ configure-openStream-description =
 configure-openStream-openStream = Open Stream
 configure-openStream-theStreamIsNowClosed = The stream is now closed
 
-configure-moderateThisStream =
+configure-moderateThisStream = Moderate this stream
 
 qa-experimentalTag-tooltip-content =
   The Q&A format is currently in active development. Please contact
