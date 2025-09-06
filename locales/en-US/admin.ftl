@@ -400,19 +400,19 @@ configure-general-guidelines-explanation =
   here: <externalLink>https://www.markdownguide.org/cheat-sheet/</externalLink>
 configure-general-guidelines-showCommunityGuidelines = Show community guidelines summary
 
-#### Bio
+### Bio
 configure-general-memberBio-title = Commenter bios
 configure-general-memberBio-explanation =
   Allow commenters to add a bio to their profile. Note: This can increase moderator workload as commenter bios can be reported.
 configure-general-memberBio-label = Allow commenter bios
 
-#### Locale
+### Locale
 configure-general-locale-language = Language
 configure-general-locale-chooseLanguage = Choose the language for your Coral community.
 configure-general-locale-invalidLanguage =
   The previously selected language <lang></lang> no longer exists. Please choose a different language.
 
-#### Sitewide Commenting
+### Sitewide Commenting
 configure-general-sitewideCommenting-title = Sitewide commenting
 configure-general-sitewideCommenting-explanation =
   Open or close comment streams for new comments sitewide.
@@ -429,7 +429,7 @@ configure-general-sitewideCommenting-message = Sitewide closed comments message
 configure-general-sitewideCommenting-messageExplanation =
   Write a message that will be displayed when comment streams are closed sitewide
 
-#### Embed Links
+### Embed Links
 configure-general-embedLinks-title = Embedded media
 configure-general-embedLinks-desc =
 configure-general-embedLinks-description = 
@@ -475,7 +475,7 @@ configure-general-embedLinks-configuration-tenor-desc =
 configure-general-embedLinks-tenorAPIKey = TENOR API key
 
 
-#### Configure Announcements
+### Configure Announcements
 
 configure-general-announcements-title = Community announcement
 configure-general-announcements-description =
@@ -489,13 +489,13 @@ configure-general-announcements-current-duration =
   This announcement will automatically end on: { $timestamp }
 configure-general-announcements-duration = Show this announcement for
 
-#### Closing Comment Streams
+### Closing Comment Streams
 configure-general-closingCommentStreams-title = Closing comment streams
 configure-general-closingCommentStreams-explanation = Set comment streams to close after a defined period of time after a story’s publication
 configure-general-closingCommentStreams-closeCommentsAutomatically = Close comments automatically
 configure-general-closingCommentStreams-closeCommentsAfter = Close comments after
 
-#### Comment Length
+### Comment Length
 configure-general-commentLength-title = Comment length
 configure-general-commentLength-maxCommentLength = Maximum comment length
 configure-general-commentLength-setLimit =
@@ -509,7 +509,7 @@ configure-general-commentLength-textField =
 configure-general-commentLength-validateLongerThanMin =
   Please enter a number longer than the minimum length
 
-#### Comment Editing
+### Comment Editing
 configure-general-commentEditing-title = Comment editing
 configure-general-commentEditing-explanation =
   Set a limit on how long commenters have to edit their comments sitewide.
@@ -518,7 +518,7 @@ configure-general-commentEditing-explanation =
 configure-general-commentEditing-commentEditTimeFrame = Comment edit timeframe
 configure-general-commentEditing-seconds = Seconds
 
-#### Flatten replies
+### Flatten replies
 configure-general-flattenReplies-title = Flatten replies
 configure-general-flattenReplies-enabled = Flatten replies enabled
 configure-general-flattenReplies-explanation =
@@ -553,7 +553,7 @@ configure-general-flairBadge-table-preview = Preview
 configure-general-flairBadge-table-deleteButton = <icon></icon> Delete
 configure-general-flairBadge-table-empty = No custom flair added for this site
 
-#### In-page notifications
+### In-page notifications
 configure-general-inPageNotifications-title = In-page notifications
 configure-general-inPageNotifications-explanation = Add notifications to Coral. When enabled, commenters can receive
   notifications when they receive all replies, replies only from members
@@ -562,7 +562,7 @@ configure-general-inPageNotifications-explanation = Add notifications to Coral. 
 configure-general-inPageNotifications-enabled = In-page notifications enabled
 configure-general-inPageNotifications-floatingBellIndicator = Floating bell indicator
 
-#### Closed Stream Message
+### Closed Stream Message
 configure-general-closedStreamMessage-title = Closed comment stream message
 configure-general-closedStreamMessage-explanation = Write a message to appear when a story is closed for commenting.
 
@@ -794,7 +794,7 @@ configure-moderation-recentCommentHistory-triggerRejectionRate-description =
   over the timeframe above, as a percentage. It does not include
   comments pending for toxicity, spam or pre-moderation.
 
-#### External links for moderators
+### External links for moderators
 configure-moderation-externalLinks-title = External links for moderators
 configure-moderation-externalLinks-profile-explanation = When a URL format is included
   below, external profile links are added to the user drawer inside the moderation
@@ -804,7 +804,7 @@ configure-moderation-externalLinks-profile-label = External profile URL pattern
 configure-moderation-externalLinks-profile-input =
   .placeholder = https://example.com/users/$USER_NAME
 
-#### Pre-Moderation
+### Pre-Moderation
 configure-moderation-preModeration-title = Pre-moderation
 configure-moderation-preModeration-explanation =
   When pre-moderation is turned on, comments will not be published unless
@@ -814,7 +814,7 @@ configure-moderation-preModeration-moderation =
 configure-moderation-preModeration-premodLinksEnable =
   Pre-moderate all comments containing links
 
-#### Moderation all/specific sites options
+### Moderation all/specific sites options
 configure-moderation-specificSites = Specific sites
 configure-moderation-allSites = All sites
 
@@ -832,7 +832,7 @@ configure-moderation-premModeration-premodSuspectWordsEnable =
 configure-moderation-premModeration-premodSuspectWordsDescription =
   You can view and edit your Suspect Word list <wordListLink>here</wordListLink>
 
-#### Akismet
+### Akismet
 configure-moderation-akismet-filter = Spam detection filter
 configure-moderation-akismet-ipBased = IP-based spam detection
 configure-moderation-akismet-accountNote =
@@ -841,7 +841,7 @@ configure-moderation-akismet-accountNote =
 configure-moderation-akismet-siteURL = Site URL
 
 
-#### Perspective
+### Perspective
 configure-moderation-perspective-title = Toxic comment filter
 configure-moderation-perspective-explanation =
   Using the Perspective API, the Toxic Comment filter warns users
@@ -887,11 +887,11 @@ configure-moderation-newCommenters-approvedCommentsThreshold-description =
   not have to be premoderated
 configure-moderation-newCommenters-comments = comments
 
-#### Unmoderated counts
+### Unmoderated counts
 configure-moderation-unmoderatedCounts-title = Unmoderated counts
 configure-moderation-unmoderatedCounts-enabled = Show the number of unmoderated comments in the queue
 
-#### Email domain
+### Email domain
 configure-moderation-emailDomains-header = Email domain
 configure-moderation-emailDomains-description = Create rules to take action on accounts or comments based on the account holder's email address domain.
 configure-moderation-emailDomains-add = Add email domain
@@ -932,7 +932,7 @@ configure-moderation-emailDomains-disposableEmailDomains-update-button = Update 
 configure-moderation-emailDomains-disposableEmailDomains-list-linkText = disposable-email-domains
 configure-moderation-emailDomains-disposableEmailDomains-update-button-helper-text = The email domains come from the <link></link> list, which is regularly updated. Use the button below to import their latest list.
 
-#### Pre-moderate  Email Address Configuration
+### Pre-moderate  Email Address Configuration
 
 configure-moderation-premoderateEmailAddress-title = Email address
 configure-moderation-premoderateEmailAddress-enabled =
@@ -952,7 +952,7 @@ configure-moderation-premoderateEmailAliases-enabled-description-ifThePreviousAc
   new account will be banned as well. Email aliases are commonly
   used by spammers and trolls to evade bans.
 
-#### Banned Words Configuration
+### Banned Words Configuration
 configure-wordList-banned-bannedWordsAndPhrases = Banned words and phrases
 configure-wordList-banned-explanation =
   Comments containing a word or phrase in the banned words list are <strong>automatically rejected and are not published</strong>.
@@ -960,7 +960,7 @@ configure-wordList-banned-wordList = Banned word list
 configure-wordList-banned-wordListDetailInstructions =
   Separate banned words or phrases with a new line. Words/phrases are not case sensitive.
 
-#### Suspect Words Configuration
+### Suspect Words Configuration
 configure-wordList-suspect-bannedWordsAndPhrases = Suspect words and phrases
 configure-wordList-suspect-explanation =
   Comments containing a word or phrase in the Suspect Words List
