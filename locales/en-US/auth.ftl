@@ -66,10 +66,6 @@ forgotPassword-emailAddressTextField =
   .placeholder = Email address
 forgotPassword-gotBackToSignIn = Go back to sign in page
 
-forgotPassword-enterEmailAndGetALink =
-  Enter your email address below and we will send you a link to
-  reset your password.
-
 # Check Email
 
 forgotPassword-checkEmail-checkEmailHeader = Check your email
