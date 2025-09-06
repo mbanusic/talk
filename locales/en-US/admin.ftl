@@ -1243,7 +1243,7 @@ moderate-user-drawer-account-history-system = <icon></icon> System
 moderate-user-drawer-account-history-suspension-ended = Suspension ended
 moderate-user-drawer-account-history-suspension-removed = Suspension removed
 moderate-user-drawer-account-history-banned = Banned
-moderate-user-drawer-account-history-account-domain-banned =
+moderate-user-drawer-account-history-account-domain-banned = Account domain or alias banned
 moderate-user-drawer-account-history-account-domain-or-alias-banned =
   Account domain or alias banned
 moderate-user-drawer-account-history-ban-removed = Ban removed
