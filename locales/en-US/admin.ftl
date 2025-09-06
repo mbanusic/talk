@@ -431,8 +431,8 @@ configure-general-sitewideCommenting-messageExplanation =
 
 ### Embed Links
 configure-general-embedLinks-title = Embedded media
-configure-general-embedLinks-desc =
-configure-general-embedLinks-description = 
+configure-general-embedLinks-desc = .
+configure-general-embedLinks-description = . 
 configure-general-embedLinks-description-addASinglePiece =
   Allow commenters to add a single piece of embedded media to the end of a comment
 configure-general-embedLinks-enableTwitterEmbeds = Allow X post embeds
