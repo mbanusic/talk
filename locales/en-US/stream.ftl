@@ -181,7 +181,7 @@ comments-permalinkView-reportIllegalContent-additionalComments-uniqueCommentURLE
 comments-permalinkView-reportIllegalContent-additionalComments-validCommentURLLengthError = Additional comment URL length exceeds maximum.
 comments-permalinkView-reportIllegalContent-additionalComments-previouslyReportedCommentError = You've previously reported this comment for containing potentially illegal content. You may only report a comment for this reason one time.
 comments-permalinkView-reportIllegalContent-confirmation-successHeader = We have received your illegal content report
-comments-permalinkView-reportIllegalContent-confirmation-description = Your report will now be reviewed by our moderation team. You will receive a notification once a decision is made. If the content is 
+comments-permalinkView-reportIllegalContent-confirmation-description = Your report will now be reviewed by our moderation team. You will receive a notification once a decision is made. If the content is
   found to contain potentially illegal content, it will be removed from the site and further action may be taken against the commenter.
 comments-permalinkView-reportIllegalContent-confirmation-errorHeader = Thank you for submitting this report
 comments-permalinkView-reportIllegalContent-confirmation-errorDescription = We were unable to submit your report for the following reason(s):
@@ -260,8 +260,8 @@ comments-showConversationLink-readMore = Read More of this Conversation >
 comments-conversationThread-showMoreOfThisConversation =
   Show More of This Conversation
 
-comments-permalinkView-currentViewing =
-comments-permalinkView-singleConversation =
+comments-permalinkView-currentViewing = You are currently viewing a single conversation
+comments-permalinkView-singleConversation = You are currently viewing a single conversation
 comments-permalinkView-youAreCurrentlyViewing =
   You are currently viewing a single conversation
 comments-inReplyTo = In reply to <Username></Username>
@@ -331,7 +331,7 @@ comments-moderationDropdown-spam-ban = Spam ban
 comments-moderationDropdown-ban = Ban user
 comments-moderationDropdown-siteBan = Site ban
 comments-moderationDropdown-banned = Banned
-comments-moderationDropdown-goToModerate =
+comments-moderationDropdown-goToModerate = Moderate
 comments-moderationDropdown-moderationView = Moderation view
 comments-moderationDropdown-moderateStory = Moderate story
 comments-moderationDropdown-caretButton =
@@ -380,7 +380,7 @@ comments-refreshReviews-refreshButton = <icon></icon> Refresh reviews
 comments-replyChangedWarning-theCommentHasJust =
   This comment has just been edited. The latest version is displayed above.
 
-comments-mobileToolbar-notifications-closeButton = 
+comments-mobileToolbar-notifications-closeButton =
   .aria-label = Close notifications
 
 ### Q&A
@@ -852,29 +852,29 @@ discussions-discussionsQuery-errorLoadingProfile = Error loading profile
 discussions-discussionsQuery-storyNotFound = Story not found
 
 ## Comment Stream
-configure-stream-title =
+configure-stream-title = Comment Stream
 configure-stream-title-configureThisStream =
   Configure this stream
-configure-stream-apply =
+configure-stream-apply = Apply
 configure-stream-update = Update
 configure-stream-streamHasBeenUpdated =
   This stream has been updated
 
-configure-premod-title =
+configure-premod-title = Pre-moderation
 configure-premod-premoderateAllComments = Pre-moderate all comments
 configure-premod-description =
   Moderators must approve any comment before it is published to this story.
 
-configure-premodLink-title =
+configure-premodLink-title = Link Pre-moderation
 configure-premodLink-commentsContainingLinks =
   Pre-moderate comments containing links
 configure-premodLink-description =
   Moderators must approve any comment that contains a link before it is published to this story.
 
-configure-messageBox-title =
+configure-messageBox-title = Comment box message
 configure-addMessage-title =
   Add a message or question
-configure-messageBox-description =
+configure-messageBox-description = Comment box message
 configure-addMessage-description =
   Add a message to the top of the comment box for your readers. Use this
   to pose a topic, ask a question or make announcements relating to this
@@ -898,7 +898,7 @@ configure-messageBox-iconChatBubble = Chat bubble
 configure-messageBox-noIcon = No icon
 configure-messageBox-writeAMessage = Write a message
 
-configure-closeStream-title =
+configure-closeStream-title = Close Stream
 configure-closeStream-closeCommentStream =
   Close comment stream
 configure-closeStream-description =
@@ -921,7 +921,7 @@ qa-experimentalTag-tooltip-content =
   The Q&A format is currently in active development. Please contact
   us with any feedback or requests.
 
-configure-enableQA-title =
+configure-enableQA-title = Enable Q&A
 configure-enableQA-switchToQA =
   Switch to Q&A format
 configure-enableQA-description =
@@ -950,7 +950,6 @@ configure-experts-filter-description =
   page. New users must first sign up and open the comments on a page
   to create their account.
 configure-experts-search-none-found = No users were found with that email or username
-configure-experts-
 configure-experts-remove-button = Remove
 configure-experts-load-more = Load More
 configure-experts-none-yet = There are currently no experts for this Q&A.
@@ -964,10 +963,10 @@ comments-tombstone-deleted =
 comments-tombstone-rejected =
   This comment has been removed by a moderator for violating our community guidelines.
 
-suspendInfo-heading =
+suspendInfo-heading = Account Suspended
 suspendInfo-heading-yourAccountHasBeen =
   Your account has been temporarily suspended from commenting
-suspendInfo-info =
+suspendInfo-info = Information
 suspendInfo-description-inAccordanceWith =
   In accordance with { $organization }'s community guidelines your
   account has been temporarily suspended. While suspended you will not
