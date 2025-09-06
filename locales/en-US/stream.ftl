@@ -720,7 +720,6 @@ profile-account-changePassword-change = Change
 
 ## Notifications
 profile-notificationsTab = Notifications
-profile-account-notifications-emailNotifications = E-Mail Notifications
 profile-account-notifications-emailNotifications = Email Notifications
 profile-account-notifications-receiveWhen = Receive notifications when:
 profile-account-notifications-onReply = My comment receives a reply
