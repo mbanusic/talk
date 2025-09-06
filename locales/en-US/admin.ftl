@@ -588,7 +588,6 @@ configure-sites-site-form-name-explanation = Site name will appear on emails sen
 configure-sites-site-form-url = Site URL
 configure-sites-site-form-url-explanation = This url will appear on emails sent by Coral to your community members.
 configure-sites-site-form-email = Site email address
-configure-sites-site-form-url-explanation = This email address is for community members to contact you with questions or if they need help. e.g. comments@yoursite.com
 configure-sites-site-form-domains = Site permitted domains
 configure-sites-site-form-domains-explanation = Domains where your Coral comment streams are allowed to be embedded (ex. http://localhost:3000, https://staging.domain.com, https://domain.com).
 configure-sites-site-form-submit = <icon></icon> Add site
