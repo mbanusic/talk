@@ -1,0 +1,40 @@
+-brand-name = Projekt Koralj
+common-experimentalTag = Eksperimentalno
+common-networkError = Mrežna pogreška. Osvježite stranicu i pokušajte ponovno.
+common-moderationReason-detailedExplanation-placeholder =
+    .placeholder = Dodajte svoje objašnjenje
+common-moderationReason-rejectionReason-IRRELEVANT_CONTENT = Nebitan sadržaj
+common-moderationReason-rejectionReason-SPAM = Neželjena pošta
+common-moderationReason-rejectionReason-HARASSMENT_BULLYING = Uznemiravanje / maltretiranje
+common-moderationReason-rejectionReason-OFFENSIVE = Ofenzivno
+common-moderationReason-rejectionReason-OTHER = Ostalo
+common-moderationReason-reject = Odbiti
+common-moderationReason-rejectionReason-AD = Oglas
+common-moderationReason-rejectionReason-ABUSIVE = Uvredljivo
+common-embedNotFound = Traženi medij nije pronađen. Možda je izbrisan.
+common-error-message = Poruka
+common-moderationReason-customReason-placeholder =
+    .placeholder = Dodajte svoj razlog
+common-embedTypeNotSupported = Ovaj medij nije podržan.
+common-moderationReason-customReason = Prilagođeni razlog (obavezno)
+-product-name = Koraljni
+common-embedInvalid = URL za ovaj vanjski medij nije valjan.
+common-moderationReason-changeReason = <Promijeni razlog
+common-moderationReason-reasonLabel = Razlog
+common-moderationReason-addExplanation = Dodaj objašnjenje
+common-moderationReason-rejectionReason-MISINFORMATION = Dezinformacija
+common-moderationReason-rejectionReason-BANNED_WORD = Zabranjena riječ
+common-username =
+    .aria-label = Korisnik { $username }
+common-moderationReason-reason = Razlog
+common-error-traceID = ID traga
+common-moderationReason-detailedExplanation = Detaljno objašnjenje (podijeljeno s komentatorom)
+common-moderationReason-cancel = Otkazati
+common-banEmailTemplate =
+    Pozdrav { $username } ,
+
+     Netko s pristupom vašem računu prekršio je naše smjernice zajednice. Zbog toga je vaš račun zabranjen. Više nećete moći komentirati, reagirati ili prijavljivati komentare.
+common-experimentalTag-tooltip-title = Eksperimentalna značajka
+common-error-title = Došlo je do pogreške
+common-embedInternalError = Došlo je do interne pogreške prilikom dohvaćanja ovog medija.
+common-moderationReason-rejectionReason-HATE_SPEECH = Govor mržnje
