@@ -610,8 +610,6 @@ site-search-searchButton =
   .aria-label = Search
 site-search-textField =
   .aria-label = Search by site name
-site-search-textField =
-  .placeholder = Search by site name
 site-search-none-found = No sites were found with that search
 specificSitesSelect-validation = You must select at least one site.
 
