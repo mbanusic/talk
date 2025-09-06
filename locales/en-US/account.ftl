@@ -26,7 +26,7 @@ resetPassword-missingResetToken = The Reset Token seems to be missing.
 
 ## Email Confirmation
 
-confirmEmail-emailConfirmation =
+confirmEmail-emailConfirmation = Confirm your email address
 confirmEmail-confirmYourEmailAddress =
   Confirm your email address
 confirmEmail-confirmEmail = Confirm email
@@ -55,14 +55,14 @@ download-landingPage-contentsText =
   The comment text
 download-landingPage-contentsStoryUrl =
   The URL on the article or story where the comment appears
-download-landingPage-downloadComments =
+download-landingPage-downloadComments = Download Comments
 download-landingPage-download = Download
 download-landingPage-sorry = Your download link is invalid.
 
 ## Unsubscribe
 
-unsubscribe-confirm =
-unsubscribe-successfullyUnsubscribed =
+unsubscribe-confirm = Confirm Unsubscribe
+unsubscribe-successfullyUnsubscribed = Successfully Unsubscribed
 
 unsubscribe-unsubscribeFromEmails = Unsubscribe from email notifications
 unsubscribe-oopsSorry = Oops Sorry!
