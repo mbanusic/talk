@@ -465,7 +465,7 @@ configure-general-embedLinks-gifProvider-desc =
 configure-general-embedLinks-gifs-provider-Giphy = Giphy
 configure-general-embedLinks-gifs-provider-Tenor = Tenor
 
-configure-general-embedLinks-configuration-desc =
+configure-general-embedLinks-configuration-desc = For additional information
 configure-general-embedLinks-configuration-giphy-desc =
   For additional information on GIPHY’s API please visit: <externalLink>https://developers.giphy.com/docs/api</externalLink>
 configure-general-embedLinks-giphyAPIKey = GIPHY API key
