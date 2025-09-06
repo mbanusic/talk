@@ -247,7 +247,6 @@ configure-moderationPhases-signingSecretDescription =
   The following signing secret is used to sign request payloads sent
   to the URL. To learn more about webhook signing, visit our <externalLink>docs</externalLink>.
 configure-moderationPhases-phaseStatus = Phase status
-configure-moderationPhases-status = Status
 configure-moderationPhases-signingSecret = Signing secret
 configure-moderationPhases-signingSecretDescription =
   The following signing secret is used to sign request payloads sent to the URL.
