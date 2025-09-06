@@ -272,7 +272,6 @@ configure-moderationPhases-deleteExternalModerationPhaseDescription =
   Deleting this external moderation phase will stop any new moderation queries
   from being sent to this URL and will remove all the associated settings.
 configure-moderationPhases-deleteExternalModerationPhaseButton = Delete phase
-configure-moderationPhases-rotateSigningSecret = Rotate signing secret
 configure-moderationPhases-rotateSigningSecretHelper =
   After it expires, signatures will no longer be generated with the old secret.
 configure-moderationPhases-expiresOldSecret =
