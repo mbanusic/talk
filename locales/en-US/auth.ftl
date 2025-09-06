@@ -98,7 +98,7 @@ resetPassword-resetPasswordButton = Reset password
 
 ## Create Username
 
-createUsername-createUsernameHeader =
+createUsername-createUsernameHeader = Create username
 createUsername-createAUsername = Create a username
 createUsername-whatItIs =
   Your username is an identifier that will appear on all of your comments.
@@ -125,7 +125,7 @@ addEmailAddress-addEmailAddressButton =
   Add email address
 
 ## Create Password
-createPassword-createPasswordHeader =
+createPassword-createPasswordHeader = Create password
 createPassword-createAPassword = Create a password
 createPassword-whatItIs =
   To protect against unauthorized changes to your account,
