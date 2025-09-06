@@ -944,7 +944,7 @@ configure-moderation-premoderateEmailAddress-enabled-description =
   correlation. It can be useful to pro-actively pre-moderate them.
 configure-moderation-premoderateEmailAliases-enabled =
   Pre-moderate email aliases
-configure-moderation-premoderateEmailAliases-enabled-description =
+configure-moderation-premoderateEmailAliases-enabled-description = If a user signs up for a new account 
 configure-moderation-premoderateEmailAliases-enabled-description-ifThePreviousAccountWas =
   If a user signs up for a new account with an email address that is
   an alias (using a + sign) of an existing account, set their status
